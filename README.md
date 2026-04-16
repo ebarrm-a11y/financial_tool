@@ -324,8 +324,7 @@ This project can be adapted for:
 
 ## License
 
-This project is available for educational, professional, and portfolio use. Add your preferred license here, such as MIT, if you intend to distribute it publicly.
-
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 ---
 
 ## Author
